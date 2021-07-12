@@ -1,0 +1,94 @@
+header {
+	display: flex;
+	height: 200px;
+	padding: 40px;
+}
+
+.logo{
+	width: 138px;
+	height: 92px;
+}
+.blog {
+	background-image: url(img/fashion88.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	height: 382px;
+	width: 1600px;
+}
+h1 {
+	font-family: 'Poppins', sans-serif;
+	height: 31px;
+	width: 306px;
+	color: #FFFFFF;
+	padding: 200px;
+}
+.nav {
+	font-family: 'Playfair Display', serif;
+	display: flex;
+	justify-content: space-between;
+	align-content: flex-start;
+	font-size: 36px;
+	width:563 ;
+	height: 94;
+	
+}
+
+.pages {
+	display: flex;
+	justify-content: space-between;
+	margin: 50px;
+}
+.pages-2 {
+	display: flex;
+	justify-content: space-between;
+	margin: 50px;
+}
+h2 {
+	color: #FF7A00 ;
+	padding: 40PX;
+}
+
+}
+h3 {
+	font-family: 'Playfair Display', serif;
+	color: #181C28;
+	width: 563px;
+	height: 94px;
+	font-size: 36px;
+}
+
+.photo {
+	font-size: 16px;
+	color: #181C28;
+	width: 636px;
+	height: 81px;
+}
+.newspaper {
+	font-size: 16px;
+	color: #181C28;
+	width: 636px;
+	height: 81px;
+}
+.cactus {
+	font-size: 16px;
+	color: #181C28;
+	width: 636px;
+	height: 81px;
+}
+.load-more { 
+	background-image: url(img/rectanlge 86.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	display: flex;
+	align-content: flex-end;
+	padding: 500px;
+	width: 190px;
+	height: 70px;
+	
+}
+
+
